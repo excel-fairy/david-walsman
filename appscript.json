@@ -1,0 +1,11 @@
+{
+  "timeZone": "Pacific/Auckland",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "ColumnNames",
+      "libraryId": "1UGjRjbG235LzTJJpsi9nkwgRfSSHuWaWLiXqXS-pySdL_dSvwm5iGdei",
+      "version": "1"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
